@@ -1,8 +1,9 @@
 <h1 align="center">Youssef Amin</h1>
 
-<p align="center">──────────</p>
+<p align="center">────────────────────────</p>
 
-<h3 align="center">Machine Learning Student & Developer</h3>
+<h2 align="center">Machine Learning Student & Developer</h2>
+
 
 
 <p align="center">
