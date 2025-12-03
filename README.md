@@ -1,4 +1,7 @@
-<h1 align="center" style="font-size: 65px;">Youssef Amin</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=80&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&width=900&height=120&lines=Youssef+Amin" />
+</p>
+
 <h3 align="center">Machine Learning Student & Developer</h3>
 
 <p align="center">
