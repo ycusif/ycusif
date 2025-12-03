@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXowcTRtaGdqdnA0NXh0Z2QxdWVtbWlmNTJjNWFuNjQ2bmZ6MWVpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" 
       
-       width="70%"/>
+       
 </p>
 
 <h3 align="left">Connect with me:</h3>
