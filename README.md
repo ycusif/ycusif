@@ -1,10 +1,6 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=80&color=ffffff&center=true&vCenter=true&width=900&height=150&lines=Youssef+Amin" 
-    alt="Name Header"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?size=80&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&width=900&height=120&lines=Youssef+Amin" />
 </p>
-<hr style="border: 1px solid #444; width: 60%; margin: 0 auto;">
 
 <h3 align="center" style="margin-top: -20px;">Machine Learning Student & Developer</h3>
 
