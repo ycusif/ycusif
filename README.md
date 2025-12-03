@@ -4,6 +4,7 @@
     alt="Name Header"
   />
 </p>
+<hr style="border: 1px solid #444; width: 60%; margin: 0 auto;">
 
 <h3 align="center" style="margin-top: -20px;">Machine Learning Student & Developer</h3>
 
