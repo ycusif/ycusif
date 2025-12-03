@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 48px;">Youssef Amin</h1>
-<h3 align="center">Machine Learning Student & Developer</h3>
+<h3 align="center">Machine Learning Student |  Developer</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" 
