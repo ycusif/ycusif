@@ -61,8 +61,3 @@ Building practical machine learning projects and developing skills in data analy
 </a>
 </p>
 
-<h3 align="left">Featured Projects</h3>
-<ul>
-  <li><a href="#">Project 1 – short description.</a></li>
-  <li><a href="#">Project 2 – short description.</a></li>
-</ul>
