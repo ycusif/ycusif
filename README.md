@@ -2,8 +2,8 @@
 <h3 align="center">Machine Learning Student |  Developer</h3>
 
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXowcTRtaGdqdnA0NXh0Z2QxdWVtbWlmNTJjNWFuNjQ2bmZ6MWVpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif)" 
-       alt="Binary Code Animation" 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXowcTRtaGdqdnA0NXh0Z2QxdWVtbWlmNTJjNWFuNjQ2bmZ6MWVpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" 
+      
        width="70%"/>
 </p>
 
