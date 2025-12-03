@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 48px;">Youssef Amin</h1>
+<h1 align="center" style="font-size: 65px;">Youssef Amin</h1>
 <h3 align="center">Machine Learning Student & Developer</h3>
 
 
