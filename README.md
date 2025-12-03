@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=80&duration=1&pause=1000&color=ffffff&center=true&vCenter=true&width=900&height=120&lines=Youssef+Amin" />
-</p>
+<h1 align="center">Youssef Amin</h1>
 
-<h3 align="center" style="margin-top: -20px;">Machine Learning Student & Developer</h3>
+<p align="center">──────────</p>
+
+<h3 align="center">Machine Learning Student & Developer</h3>
+
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXowcTRtaGdqdnA0NXh0Z2QxdWVtbWlmNTJjNWFuNjQ2bmZ6MWVpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" 
