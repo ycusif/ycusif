@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" alt="Binary Code Animation" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" alt="Binary Code Animation" width="80%"/>
 </p>
