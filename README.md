@@ -1,5 +1,6 @@
-<h1 align="center" style="font-size: 48Px;">Youssef Amin</h1>
-<h3 align="center">Machine Learning Student |  Developer</h3>
+<h1 align="center" style="font-size: 48px;">Youssef Amin</h1>
+<h3 align="center">Machine Learning Student & Developer</h3>
+
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXowcTRtaGdqdnA0NXh0Z2QxdWVtbWlmNTJjNWFuNjQ2bmZ6MWVpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" 
